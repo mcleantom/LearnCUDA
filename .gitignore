@@ -4,3 +4,12 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
